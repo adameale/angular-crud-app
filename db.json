@@ -18,40 +18,28 @@
   },
   "employees": [
     {
-      "firstName": "adameale",
-      "lastName": "awoke",
-      "email": "adam@gmail.com",
-      "dob": "2023-08-08T12:00:00.000Z",
-      "gender": "male",
-      "education": "Graduate",
-      "company": "Dan Energy",
+      "firstName": "aa",
+      "lastName": "A",
+      "email": "a@gmail.com",
+      "dob": "2023-08-09T12:00:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "sa",
       "experience": 1,
-      "package": 1,
+      "package": 2,
       "id": 1
     },
     {
-      "firstName": "charlies",
-      "lastName": "art",
-      "email": "ch@gmail.com",
-      "dob": "2023-08-06T12:00:00.000Z",
-      "gender": "male",
-      "education": "Graduate",
-      "company": "Dan Energy",
-      "experience": 1,
-      "package": 1,
-      "id": 2
-    },
-    {
-      "firstName": "menal",
-      "lastName": "ibrahim",
-      "email": "m@gmail.com",
-      "dob": "2023-08-05T12:00:00.000Z",
-      "gender": "female",
-      "education": "Graduate",
+      "firstName": "alex",
+      "lastName": "aman",
+      "email": "a@gmail.com",
+      "dob": "2023-08-15T12:00:00.000Z",
+      "gender": "",
+      "education": "Diploma",
       "company": "Dan Energy",
       "experience": 1,
       "package": 3,
-      "id": 3
+      "id": 2
     }
   ]
 }
